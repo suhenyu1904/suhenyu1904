@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:336699,100:1E88E5&height=150&section=header&text=Susilo%20Adi%20Wibowo&fontSize=40&fontColor=fff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:336699,100:1E88E5&height=150&section=header&text=Susilo%20Hendri%20Yudhoyono&fontSize=40&fontColor=fff&animation=fadeIn" />
 </div>
 
 <div align="center">
