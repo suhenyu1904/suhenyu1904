@@ -14,11 +14,19 @@
 </p>
 
 <p align="center">
-  <a href="mailto:suhenyu@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/susilo-1904abda"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="[https://instagram.com/username](https://www.instagram.com/susilohendri19?igsh=MW4weTdmM3BhY2dtMw==)"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
-  <img src="https://komarev.com/ghpvc/?username=Susilo19042004&color=336699&style=flat-square&label=Profile+Views"/>
+  <a href="mailto:suhenyu@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://linkedin.com/in/susilo-1904abda">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://www.instagram.com/susilohendri19?igsh=MW4weTdmM3BhY2dtMw==">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
+  </a>
 </p>
+
 
 ---
 
@@ -125,18 +133,18 @@
 - 🎓 Pursuing CCNA & HCIA certifications
 
 ---
-
 ## 📫 Let's Connect
 
 <div align="center">
 
-**Open for opportunities in Network Engineering, DevOps & Software Development**
+**Open for opportunities in Network Engineering, DevOps, & Software Development**
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suhenyu@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/susilo-1904abda)
-[![Portfolio](https://img.shields.io/badge/Portfolio-336699?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-336699?style=for-the-badge&logo=google-chrome&logoColor=white)](https://susilo19042004.github.io)
 
 </div>
+
 
 ---
 
