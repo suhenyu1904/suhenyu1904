@@ -14,37 +14,14 @@
 </p>
 
 <p align="center">
-  <a href="mailto:your.email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/susilo-username"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="https://instagram.com/username"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
+  <a href="mailto:suhenyu@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/susilo-1904abda"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="[https://instagram.com/username](https://www.instagram.com/susilohendri19?igsh=MW4weTdmM3BhY2dtMw==)"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
   <img src="https://komarev.com/ghpvc/?username=Susilo19042004&color=336699&style=flat-square&label=Profile+Views"/>
 </p>
 
 ---
 
-## 🚀 What I Do
-
-```yaml
-Network Engineering:
-  - Multi-vendor routing & switching (Cisco, Huawei, MikroTik, Fortinet)
-  - High Availability design (OSPF, HSRP, VRRP)
-  - Enterprise campus network infrastructure
-  - Network security & firewall configuration
-
-Network Automation:
-  - Python scripting for network tasks (Netmiko, Paramiko)
-  - Configuration backup & deployment automation
-  - Network monitoring & alerting systems
-  - API integration for network management
-
-Application Development:
-  - Full-stack web (Laravel, Node.js, React)
-  - Mobile apps (Flutter)
-  - IoT solutions (ESP32, Arduino, MQTT)
-  - Real-time monitoring dashboards
-```
-
----
 
 ## 💼 Key Projects
 
@@ -120,13 +97,10 @@ Application Development:
 **Programming & Frameworks**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 **Tools & Platforms**
@@ -134,17 +108,10 @@ Application Development:
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![EVE-NG](https://img.shields.io/badge/EVE--NG-FF6C37?style=for-the-badge&logo=serverless&logoColor=white)
+![GNS3](https://img.shields.io/badge/GNS3-3A7CA5?style=flat-square&logo=serverless&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 
-</div>
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Susilo19042004&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=336699&icon_color=1E88E5"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Susilo19042004&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=336699&langs_count=6"/>
 </div>
 
 ---
@@ -165,8 +132,8 @@ Application Development:
 
 **Open for opportunities in Network Engineering, DevOps & Software Development**
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/susilo-username)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suhenyu@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/susilo-1904abda)
 [![Portfolio](https://img.shields.io/badge/Portfolio-336699?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio.com)
 
 </div>
